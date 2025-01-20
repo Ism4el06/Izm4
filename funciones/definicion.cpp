@@ -8,5 +8,6 @@ main () {
     cout<< "el primer elemento del vector de edad es: "<<edad[0]<<endl;
     cout<< "el ultimo elemento de estatura es: "<<estatura[4]<<endl;
     cout<< "el elemento mitad de sexo es: "<<sexo[5/2]<<endl;
-
+for (int i=0; i<5; i++) {
+    cout<< "el elemento "<<i<<" del vector sexo es: "<<sexo[i]<<endl;
 }
