@@ -17,6 +17,7 @@ void imprimeTabla(int tabla [][50],int f, int c){
         }
     }
 }
+
 main ()
 {
     int Tabla [50][50],filas,columnas;
