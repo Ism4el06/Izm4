@@ -1,0 +1,24 @@
+{
+  "name": "izm4",
+  "version": "1.0.0",
+  "main": "doom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ism4el06/Izm4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ism4el06/Izm4/issues"
+  },
+  "homepage": "https://github.com/Ism4el06/Izm4#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "three": "^0.173.0"
+  },
+  "description": ""
+}
