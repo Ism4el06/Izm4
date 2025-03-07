@@ -1,0 +1,19 @@
+Cantidad total de cada articulo:
+Laptop: 11
+Mouse: 55
+Teclado: 24
+Monitor: 14
+Impresora: 9
+Webcam: 18
+
+Cantidad de articulos en la sucursal Sur: 42
+Cantidad de teclados en la sucursal Norte: 10
+
+Recaudacion total por sucursal:
+Norte: $7470
+Centro: $5365
+Sur: $5880
+Este: $3140
+
+Recaudacion total de la empresa: $21855
+Sucursal con mayor recaudacion: Norte
